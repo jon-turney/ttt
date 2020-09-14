@@ -1,0 +1,6 @@
+#include <windows.h>
+#include "resource.h"
+
+#include "res/en/res.rc"
+#include "res/fr/res.rc"
+

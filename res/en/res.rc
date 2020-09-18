@@ -1,7 +1,9 @@
 LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
-IDD_DIALOG DIALOG 0, 0, 339, 179
-CAPTION "Caption"
+STRINGTABLE
 BEGIN
-    CONTROL         "", IDC_HEADSEPARATOR, "Static", SS_BLACKFRAME | SS_SUNKEN, 0, 28, 339, 1
+    IDS_FIRST  "Lucian's Trips to the Moon"
+    IDS_SECOND "Lucian of Samosata (c. 125 - after 180) was an Assyrian satirist and rhetorician "
+               "who is best known for his characteristic tongue-in-cheek style, with which he "
+               "frequently ridiculed superstition, religious practices, and belief in the paranormal."
 END

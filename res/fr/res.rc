@@ -1,8 +1,9 @@
 LANGUAGE LANG_FRENCH, SUBLANG_DEFAULT
 
-IDD_DIALOG DIALOG 0, 0, 339, 179
-CAPTION "Légende"
+STRINGTABLE
 BEGIN
-    CONTROL         "", IDC_HEADSEPARATOR, "Static", SS_BLACKFRAME | SS_SUNKEN,
-                    0, 28, 339, 1
+    IDS_FIRST  "Les voyages de Lucian sur la Lune"
+    IDS_SECOND "Lucian de Samosata (vers 125 - après 180) était un satiriste et rhéteur assyrien "
+               "qui est surtout connu pour son style ironique caractéristique, avec lequel il "
+               "fréquemment ridiculisé la superstition, les pratiques religieuses et la croyance au paranormal."
 END

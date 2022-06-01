@@ -1,9 +1,0 @@
-LANGUAGE LANG_FRENCH, SUBLANG_DEFAULT
-
-STRINGTABLE
-BEGIN
-    IDS_FIRST  "Les voyages de Lucian sur la Lune"
-    IDS_SECOND "Lucian de Samosata (vers 125 - après 180) était un satiriste et rhéteur assyrien "
-               "qui est surtout connu pour son style ironique caractéristique, avec lequel il "
-               "fréquemment ridiculisé la superstition, les pratiques religieuses et la croyance au paranormal."
-END

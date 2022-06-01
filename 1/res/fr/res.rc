@@ -1,0 +1,7 @@
+LANGUAGE LANG_FRENCH, SUBLANG_DEFAULT
+
+STRINGTABLE
+BEGIN
+    IDS_FIRST               "Les voyages de Lucian sur la Lune"
+    IDS_SECOND              "Lucian of Samosata (c. 125 - after 180) was an Assyrian satirist and rhetorician ","who is best known for his characteristic tongue-in-cheek style, with which he ","frequently ridiculed superstition, religious practices, and belief in the paranormal."
+END

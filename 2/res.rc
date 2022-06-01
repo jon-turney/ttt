@@ -1,0 +1,7 @@
+IDD_DIALOG DIALOG 0, 0, 340, 180
+CAPTION "Caption"
+BEGIN
+    LTEXT           "Right",IDC_STATIC_HEADER,7,0,258,8,NOT WS_GROUP
+    LTEXT           "Wrong",IDC_STATIC_HEADER
+                    ,7,0,258,8,NOT WS_GROUP
+END
